@@ -10,4 +10,4 @@ Output
 
 
 
-© 2023. All rights reserved. 
+2023 XYZ, Inc.
